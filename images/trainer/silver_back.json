@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "silver_back.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 50,
+				"h": 75
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 5,
+						"w": 50,
+						"h": 75
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 75
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from HGSS trainer back sheet",
+		"version": "3.0",
+		"source": "DS _ DSi - Pokemon HeartGold _ SoulSilver - Trainers - Trainers (Back) (2).png"
+	}
+}

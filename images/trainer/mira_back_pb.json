@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "mira_back_pb.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 75,
+				"h": 175
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 20,
+						"w": 52,
+						"h": 60
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 60
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 23,
+						"w": 54,
+						"h": 57
+					},
+					"frame": {
+						"x": 0,
+						"y": 60,
+						"w": 54,
+						"h": 57
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 22,
+						"w": 75,
+						"h": 58
+					},
+					"frame": {
+						"x": 0,
+						"y": 117,
+						"w": 75,
+						"h": 58
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from HGSS trainer back sheet",
+		"version": "3.0",
+		"source": "DS _ DSi - Pokemon HeartGold _ SoulSilver - Trainers - Trainers (Back) (2).png"
+	}
+}

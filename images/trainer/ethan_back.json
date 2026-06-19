@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "ethan_back.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 54,
+				"h": 70
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 54,
+						"h": 70
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 70
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from HGSS trainer back sheet",
+		"version": "3.0",
+		"source": "DS _ DSi - Pokemon HeartGold _ SoulSilver - Trainers - Trainers (Back) (2).png"
+	}
+}

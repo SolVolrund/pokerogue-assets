@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "cheryl_back_pb.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 68,
+				"h": 233
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 60,
+						"h": 78
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 60,
+						"h": 78
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 60,
+						"h": 75
+					},
+					"frame": {
+						"x": 0,
+						"y": 78,
+						"w": 60,
+						"h": 75
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 68,
+						"h": 80
+					},
+					"frame": {
+						"x": 0,
+						"y": 153,
+						"w": 68,
+						"h": 80
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from HGSS trainer back sheet",
+		"version": "3.0",
+		"source": "DS _ DSi - Pokemon HeartGold _ SoulSilver - Trainers - Trainers (Back) (2).png"
+	}
+}

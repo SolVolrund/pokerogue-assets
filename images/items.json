@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 491,
-				"h": 491
+				"h": 523
 			},
 			"scale": 1,
 			"frames": [
@@ -11095,6 +11095,27 @@
 						"y": 467,
 						"w": 16,
 						"h": 16
+					}
+				},
+				{
+					"filename": "linking_cord_gold",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 25,
+						"h": 24
+					},
+					"frame": {
+						"x": 0,
+						"y": 491,
+						"w": 25,
+						"h": 24
 					}
 				}
 			]

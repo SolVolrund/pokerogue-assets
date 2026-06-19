@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "lucas_dp_back.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 47,
+				"h": 67
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 47,
+						"h": 67
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 67
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from HGSS trainer back sheet",
+		"version": "3.0",
+		"source": "DS _ DSi - Pokemon HeartGold _ SoulSilver - Trainers - Trainers (Back) (2).png"
+	}
+}

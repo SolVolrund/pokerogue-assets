@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "silver_back_pb.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 76,
+				"h": 220
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 5,
+						"w": 50,
+						"h": 75
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 75
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 76,
+						"h": 72
+					},
+					"frame": {
+						"x": 0,
+						"y": 75,
+						"w": 76,
+						"h": 72
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 81,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 70,
+						"h": 73
+					},
+					"frame": {
+						"x": 0,
+						"y": 147,
+						"w": 70,
+						"h": 73
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from HGSS trainer back sheet",
+		"version": "3.0",
+		"source": "DS _ DSi - Pokemon HeartGold _ SoulSilver - Trainers - Trainers (Back) (2).png"
+	}
+}
