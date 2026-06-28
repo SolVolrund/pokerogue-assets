@@ -11117,6 +11117,69 @@
 						"w": 25,
 						"h": 24
 					}
+				},
+				{
+					"filename": "partner_revive",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 9,
+						"w": 10,
+						"h": 15
+					},
+					"frame": {
+						"x": 25,
+						"y": 491,
+						"w": 10,
+						"h": 15
+					}
+				},
+				{
+					"filename": "partner_max_revive",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 20,
+						"h": 22
+					},
+					"frame": {
+						"x": 57,
+						"y": 491,
+						"w": 20,
+						"h": 22
+					}
+				},
+				{
+					"filename": "gamma_ray_burst",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 30,
+						"h": 32
+					},
+					"frame": {
+						"x": 77,
+						"y": 491,
+						"w": 30,
+						"h": 32
+					}
 				}
 			]
 		}
