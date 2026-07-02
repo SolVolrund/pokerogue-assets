@@ -1,0 +1,82 @@
+{
+	"textures": [
+		{
+			"image": "dawn_zorua_back_pb.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 80,
+				"h": 208
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 56,
+						"h": 80
+					},
+					"frame": {
+						"x": 3,
+						"y": 0,
+						"w": 56,
+						"h": 80
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 16,
+						"w": 54,
+						"h": 64
+					},
+					"frame": {
+						"x": 3,
+						"y": 80,
+						"w": 54,
+						"h": 64
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 16,
+						"w": 77,
+						"h": 64
+					},
+					"frame": {
+						"x": 3,
+						"y": 144,
+						"w": 77,
+						"h": 64
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "generated from Dawn_Zorua_pb.png",
+		"version": "3.0"
+	}
+}
