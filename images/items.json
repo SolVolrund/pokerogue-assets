@@ -11180,6 +11180,27 @@
 						"w": 30,
 						"h": 32
 					}
+				},
+				{
+					"filename": "old_sea_map",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 29,
+						"h": 29
+					},
+					"frame": {
+						"x": 107,
+						"y": 491,
+						"w": 29,
+						"h": 29
+					}
 				}
 			]
 		}
