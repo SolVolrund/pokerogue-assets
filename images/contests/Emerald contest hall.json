@@ -1,0 +1,40 @@
+{
+  "textures": [
+    {
+      "image": "Emerald contest hall.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 80,
+        "h": 78
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "0001.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 80,
+            "h": 78
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 78
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 78
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "contest-entry",
+    "version": "1.0"
+  }
+}
