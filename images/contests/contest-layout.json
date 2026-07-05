@@ -5,7 +5,7 @@
     "height": 180,
     "coordinateScale": "logical"
   },
-  "exportedAt": "2026-07-04T01:20:19.311Z",
+  "exportedAt": "2026-07-05T02:10:24.445Z",
   "objects": [
     {
       "kind": "sprite",
@@ -200,8 +200,6 @@
       "height": 47,
       "z": 7,
       "phaseAppearance": [
-        "ContestStartPhase",
-        "ContestIntroScorePhase",
         "ContestRoundStartPhase",
         "ContestCommandPhase",
         "ContestAppealPhase",
@@ -5078,6 +5076,160 @@
       ],
       "purpose": "An add reel. scrolling slowly from right to left. pulling from a file.",
       "when": "Always"
+    },
+    {
+      "kind": "marker",
+      "key": "contest_performer_hidden_point",
+      "label": "Contest performer hidden point",
+      "role": "contest_performer_hidden_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 111,
+      "y": 220,
+      "width": 8,
+      "height": 8,
+      "z": 232,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase",
+        "ContestRoundStartPhase",
+        "ContestCommandPhase",
+        "ContestAppealPhase",
+        "ContestAppealResultPhase",
+        "ContestRoundScoringPhase",
+        "ContestRoundEndPhase",
+        "ContestEndPhase"
+      ],
+      "purpose": "Where the appealing Pokemon starts and returns before being removed.",
+      "when": "Used for the slide-in and slide-out animation around each appeal."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_move_target_point",
+      "label": "Contest move target point",
+      "role": "contest_move_target_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 28,
+      "y": 42,
+      "width": 8,
+      "height": 8,
+      "z": 233,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase",
+        "ContestRoundStartPhase",
+        "ContestCommandPhase",
+        "ContestAppealPhase",
+        "ContestAppealResultPhase",
+        "ContestRoundScoringPhase",
+        "ContestRoundEndPhase",
+        "ContestEndPhase"
+      ],
+      "purpose": "Invisible target point used to aim contest move animations.",
+      "when": "Used while a contest move animation is playing."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_performer_active_point",
+      "label": "Contest performer active point",
+      "role": "contest_performer_active_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 111,
+      "y": 106,
+      "width": 8,
+      "height": 8,
+      "z": 234,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase",
+        "ContestRoundStartPhase",
+        "ContestCommandPhase",
+        "ContestAppealPhase",
+        "ContestAppealResultPhase",
+        "ContestRoundScoringPhase",
+        "ContestRoundEndPhase",
+        "ContestEndPhase"
+      ],
+      "purpose": "Where the appealing Pokemon stands while performing a move.",
+      "when": "Used as the source point for contest Pokemon and move animations."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_trainer_standing_point",
+      "label": "Contest intro trainer standing point",
+      "role": "contest_intro_trainer_standing_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 92,
+      "y": 53,
+      "width": 8,
+      "height": 8,
+      "z": 235,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced trainer stands beside their Pokemon.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_pokemon_standing_point",
+      "label": "Contest intro Pokemon standing point",
+      "role": "contest_intro_pokemon_standing_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 109,
+      "y": 60,
+      "width": 8,
+      "height": 8,
+      "z": 236,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced Pokemon stands while the crowd judges the entrant.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_pokemon_hidden_point",
+      "label": "Contest intro Pokemon hidden point",
+      "role": "contest_intro_pokemon_hidden_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 333,
+      "y": 60,
+      "width": 8,
+      "height": 8,
+      "z": 237,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced Pokemon waits before sliding onto the stage.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_trainer_hidden_point",
+      "label": "Contest intro trainer hidden point",
+      "role": "contest_intro_trainer_hidden_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 348,
+      "y": 53,
+      "width": 8,
+      "height": 8,
+      "z": 238,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced trainer waits before sliding onto the stage.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
     }
   ],
   "sprites": [
@@ -5249,8 +5401,6 @@
       "height": 47,
       "z": 7,
       "phaseAppearance": [
-        "ContestStartPhase",
-        "ContestIntroScorePhase",
         "ContestRoundStartPhase",
         "ContestCommandPhase",
         "ContestAppealPhase",
@@ -10154,6 +10304,162 @@
       ],
       "purpose": "An add reel. scrolling slowly from right to left. pulling from a file.",
       "when": "Always"
+    }
+  ],
+  "markers": [
+    {
+      "kind": "marker",
+      "key": "contest_performer_hidden_point",
+      "label": "Contest performer hidden point",
+      "role": "contest_performer_hidden_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 111,
+      "y": 220,
+      "width": 8,
+      "height": 8,
+      "z": 232,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase",
+        "ContestRoundStartPhase",
+        "ContestCommandPhase",
+        "ContestAppealPhase",
+        "ContestAppealResultPhase",
+        "ContestRoundScoringPhase",
+        "ContestRoundEndPhase",
+        "ContestEndPhase"
+      ],
+      "purpose": "Where the appealing Pokemon starts and returns before being removed.",
+      "when": "Used for the slide-in and slide-out animation around each appeal."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_move_target_point",
+      "label": "Contest move target point",
+      "role": "contest_move_target_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 28,
+      "y": 42,
+      "width": 8,
+      "height": 8,
+      "z": 233,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase",
+        "ContestRoundStartPhase",
+        "ContestCommandPhase",
+        "ContestAppealPhase",
+        "ContestAppealResultPhase",
+        "ContestRoundScoringPhase",
+        "ContestRoundEndPhase",
+        "ContestEndPhase"
+      ],
+      "purpose": "Invisible target point used to aim contest move animations.",
+      "when": "Used while a contest move animation is playing."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_performer_active_point",
+      "label": "Contest performer active point",
+      "role": "contest_performer_active_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 111,
+      "y": 106,
+      "width": 8,
+      "height": 8,
+      "z": 234,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase",
+        "ContestRoundStartPhase",
+        "ContestCommandPhase",
+        "ContestAppealPhase",
+        "ContestAppealResultPhase",
+        "ContestRoundScoringPhase",
+        "ContestRoundEndPhase",
+        "ContestEndPhase"
+      ],
+      "purpose": "Where the appealing Pokemon stands while performing a move.",
+      "when": "Used as the source point for contest Pokemon and move animations."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_trainer_standing_point",
+      "label": "Contest intro trainer standing point",
+      "role": "contest_intro_trainer_standing_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 92,
+      "y": 53,
+      "width": 8,
+      "height": 8,
+      "z": 235,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced trainer stands beside their Pokemon.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_pokemon_standing_point",
+      "label": "Contest intro Pokemon standing point",
+      "role": "contest_intro_pokemon_standing_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 109,
+      "y": 60,
+      "width": 8,
+      "height": 8,
+      "z": 236,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced Pokemon stands while the crowd judges the entrant.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_pokemon_hidden_point",
+      "label": "Contest intro Pokemon hidden point",
+      "role": "contest_intro_pokemon_hidden_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 333,
+      "y": 60,
+      "width": 8,
+      "height": 8,
+      "z": 237,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced Pokemon waits before sliding onto the stage.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
+    },
+    {
+      "kind": "marker",
+      "key": "contest_intro_trainer_hidden_point",
+      "label": "Contest intro trainer hidden point",
+      "role": "contest_intro_trainer_hidden_point",
+      "assetName": null,
+      "assetPath": null,
+      "x": 348,
+      "y": 53,
+      "width": 8,
+      "height": 8,
+      "z": 238,
+      "phaseAppearance": [
+        "ContestStartPhase",
+        "ContestIntroScorePhase"
+      ],
+      "purpose": "Where the introduced trainer waits before sliding onto the stage.",
+      "when": "Used during ContestStartPhase and ContestIntroScorePhase."
     }
   ]
 }
