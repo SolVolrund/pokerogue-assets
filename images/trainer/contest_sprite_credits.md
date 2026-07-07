@@ -12,3 +12,10 @@ These contest trainer sprite atlases were added for local contest support.
 - `nurse_kyledove`: Nurse by Kyle-Dove.
 - `nurse_bored_kyledove`: Nurse by Kyle-Dove.
 - `valerie_kyledove`: Valerie by Kyle-Dove.
+- `dawn_dp`: Dawn DP by Hyo.
+- `dawn_pt`: Dawn Pt by Jext.
+- `lucas_dp`: Lucas DP by Jext.
+- `lucas_pt`: Lucas Pt by Jext.
+- `silver`: Silver by Jext.
+- `lyra`: Lyra by Jext.
+- `ethan`: Ethan.

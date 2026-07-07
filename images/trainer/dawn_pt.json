@@ -1,0 +1,40 @@
+{
+  "textures": [
+    {
+      "image": "dawn_pt.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 28,
+        "h": 66
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "0001.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 28,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 28,
+            "h": 66
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 28,
+            "h": 66
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Codex",
+    "version": "1.0"
+  }
+}
