@@ -11222,6 +11222,27 @@
 						"w": 32,
 						"h": 32
 					}
+				},
+				{
+					"filename": "grand_laurel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 22
+					},
+					"frame": {
+						"x": 168,
+						"y": 491,
+						"w": 31,
+						"h": 22
+					}
 				}
 			]
 		}
