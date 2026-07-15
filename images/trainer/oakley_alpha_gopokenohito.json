@@ -1,0 +1,40 @@
+{
+  "textures": [
+    {
+      "image": "oakley_alpha_gopokenohito.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 960,
+        "h": 960
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "0001.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 960,
+            "h": 960
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 960,
+            "h": 960
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 960,
+            "h": 960
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Codex",
+    "version": "1.0"
+  }
+}
