@@ -1,0 +1,124 @@
+{
+  "textures": [
+    {
+      "image": "bianca_latias_back_pb.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 400,
+        "h": 80
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "1",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 80,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          }
+        },
+        {
+          "filename": "2",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 80,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          },
+          "frame": {
+            "x": 80,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          }
+        },
+        {
+          "filename": "3",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 80,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          },
+          "frame": {
+            "x": 160,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          }
+        },
+        {
+          "filename": "4",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 80,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          },
+          "frame": {
+            "x": 240,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          }
+        },
+        {
+          "filename": "5",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 80,
+            "h": 80
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          },
+          "frame": {
+            "x": 320,
+            "y": 0,
+            "w": 80,
+            "h": 80
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "generated from bianca_latias_back_pb.png",
+    "version": "3.0"
+  }
+}

@@ -11243,6 +11243,27 @@
 						"w": 31,
 						"h": 22
 					}
+				},
+				{
+					"filename": "eon_flute",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 200,
+						"y": 491,
+						"w": 32,
+						"h": 32
+					}
 				}
 			]
 		}
