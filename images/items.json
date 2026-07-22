@@ -9586,6 +9586,27 @@
 					}
 				},
 				{
+					"filename": "darkranite",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 8,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 415,
+						"y": 175,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
 					"filename": "delphoxite",
 					"rotated": false,
 					"trimmed": true,
@@ -10553,6 +10574,27 @@
 				},
 				{
 					"filename": "pyorarite",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 8,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 467,
+						"y": 351,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "pyroarite",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
