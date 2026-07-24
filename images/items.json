@@ -12041,6 +12041,111 @@
 						"w": 32,
 						"h": 32
 					}
+				},
+				{
+					"filename": "rotom_oven",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 160,
+						"y": 587,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rotom_washer",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 192,
+						"y": 587,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rotom_fridge",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 224,
+						"y": 587,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rotom_fan",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 256,
+						"y": 587,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rotom_mower",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 288,
+						"y": 587,
+						"w": 32,
+						"h": 32
+					}
 				}
 			]
 		}
