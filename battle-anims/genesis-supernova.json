@@ -5542,7 +5542,7 @@
     "28": [
       {
         "frameIndex": 28,
-        "resourceName": "PRAS- Genesis Supernova BG.png",
+        "resourceName": "PRAS- Genesis Supernova BG",
         "bgX": 0,
         "bgY": -500,
         "opacity": 0,
@@ -5580,7 +5580,7 @@
     "37": [
       {
         "frameIndex": 37,
-        "resourceName": "PRAS- Space BG.png",
+        "resourceName": "PRAS- Space BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 255,
@@ -5620,7 +5620,7 @@
     "78": [
       {
         "frameIndex": 78,
-        "resourceName": "PRAS- Black BG.png",
+        "resourceName": "PRAS- Black BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -5681,7 +5681,7 @@
     "85": [
       {
         "frameIndex": 85,
-        "resourceName": "PRAS- Dream Eater BG.png",
+        "resourceName": "PRAS- Dream Eater BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 255,

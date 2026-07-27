@@ -3997,7 +3997,7 @@
     "0": [
       {
         "frameIndex": 0,
-        "resourceName": "PRAS- Flash FG.png",
+        "resourceName": "PRAS- Flash FG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -4028,7 +4028,7 @@
     "14": [
       {
         "frameIndex": 14,
-        "resourceName": "PRAS- Petal BG.png",
+        "resourceName": "PRAS- Petal BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 255,

@@ -3605,7 +3605,7 @@
     "0": [
       {
         "frameIndex": 0,
-        "resourceName": "PRAS- Magnitude BG.png",
+        "resourceName": "PRAS- Magnitude BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -3782,7 +3782,7 @@
       },
       {
         "frameIndex": 46,
-        "resourceName": "PRAS- Flash FG.png",
+        "resourceName": "PRAS- Flash FG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,

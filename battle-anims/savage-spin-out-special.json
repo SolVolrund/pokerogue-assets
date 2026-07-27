@@ -6452,7 +6452,7 @@
     "81": [
       {
         "frameIndex": 81,
-        "resourceName": "PRAS- Guillotine BG.png",
+        "resourceName": "PRAS- Guillotine BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -6472,7 +6472,7 @@
     "86": [
       {
         "frameIndex": 86,
-        "resourceName": "PRAS- Black BG.png",
+        "resourceName": "PRAS- Black BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,

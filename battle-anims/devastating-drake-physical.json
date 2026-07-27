@@ -3023,7 +3023,7 @@
     "35": [
       {
         "frameIndex": 35,
-        "resourceName": "PRAS- Flash FG.png",
+        "resourceName": "PRAS- Flash FG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 70,
@@ -3052,7 +3052,7 @@
       },
       {
         "frameIndex": 36,
-        "resourceName": "PRAS- Dragon Fire BG.png",
+        "resourceName": "PRAS- Dragon Fire BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 160,

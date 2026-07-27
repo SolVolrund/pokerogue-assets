@@ -5368,7 +5368,7 @@
     "0": [
       {
         "frameIndex": 0,
-        "resourceName": "PRAS- Starry BG.png",
+        "resourceName": "PRAS- Starry BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -5413,7 +5413,7 @@
     "30": [
       {
         "frameIndex": 30,
-        "resourceName": "PRAS- Moonblast FG.png",
+        "resourceName": "PRAS- Moonblast FG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,

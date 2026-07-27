@@ -2712,7 +2712,7 @@
     "15": [
       {
         "frameIndex": 15,
-        "resourceName": "PRAS- Fire BG.png",
+        "resourceName": "PRAS- Fire BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -2746,7 +2746,7 @@
       },
       {
         "frameIndex": 15,
-        "resourceName": "PRAS- Burning BG.png",
+        "resourceName": "PRAS- Burning BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,

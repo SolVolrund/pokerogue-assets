@@ -2960,7 +2960,7 @@
     "21": [
       {
         "frameIndex": 21,
-        "resourceName": "PRAS- Icy Wind BG.png",
+        "resourceName": "PRAS- Icy Wind BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -2978,7 +2978,7 @@
       },
       {
         "frameIndex": 21,
-        "resourceName": "PRAS- Blizzard FG.png",
+        "resourceName": "PRAS- Blizzard FG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,

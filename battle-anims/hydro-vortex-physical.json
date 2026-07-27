@@ -2631,7 +2631,7 @@
     "0": [
       {
         "frameIndex": 0,
-        "resourceName": "PRAS- Surf FG.png",
+        "resourceName": "PRAS- Surf FG",
         "bgX": -500,
         "bgY": 200,
         "opacity": 0,
@@ -2680,7 +2680,7 @@
     "12": [
       {
         "frameIndex": 12,
-        "resourceName": "PRAS- Underwater BG.png",
+        "resourceName": "PRAS- Underwater BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,

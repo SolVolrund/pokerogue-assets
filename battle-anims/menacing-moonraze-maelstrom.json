@@ -5729,7 +5729,7 @@
     "8": [
       {
         "frameIndex": 8,
-        "resourceName": "PRAS- Space BG.png",
+        "resourceName": "PRAS- Space BG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
@@ -5758,7 +5758,7 @@
     "27": [
       {
         "frameIndex": 27,
-        "resourceName": "PRAS- Flash FG.png",
+        "resourceName": "PRAS- Flash FG",
         "bgX": 0,
         "bgY": 0,
         "opacity": 0,
