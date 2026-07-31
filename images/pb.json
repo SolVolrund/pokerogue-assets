@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 12,
-				"h": 246
+				"h": 287
 			},
 			"scale": 1,
 			"frames": [
@@ -383,6 +383,69 @@
 					"frame": {
 						"x": 0,
 						"y": 234,
+						"w": 12,
+						"h": 12
+					}
+				},
+				{
+					"filename": "glass_ball_open",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 246,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glass_ball_opening",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 12,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 12,
+						"h": 13
+					},
+					"frame": {
+						"x": 0,
+						"y": 262,
+						"w": 12,
+						"h": 13
+					}
+				},
+				{
+					"filename": "glass_ball",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 12,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 12,
+						"h": 12
+					},
+					"frame": {
+						"x": 0,
+						"y": 275,
 						"w": 12,
 						"h": 12
 					}
