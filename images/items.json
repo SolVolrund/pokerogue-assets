@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 512,
-				"h": 645
+				"h": 664
 			},
 			"scale": 1,
 			"frames": [
@@ -12901,6 +12901,27 @@
 						"y": 632,
 						"w": 24,
 						"h": 13
+					}
+				},
+				{
+					"filename": "sticky_barbs",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 372,
+						"y": 632,
+						"w": 32,
+						"h": 32
 					}
 				}
 			]
