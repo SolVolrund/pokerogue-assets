@@ -12923,6 +12923,48 @@
 						"w": 32,
 						"h": 32
 					}
+				},
+				{
+					"filename": "lag_tail",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 404,
+						"y": 632,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "iron_ball",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 436,
+						"y": 632,
+						"w": 32,
+						"h": 32
+					}
 				}
 			]
 		}
