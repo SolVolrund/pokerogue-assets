@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 512,
-				"h": 664
+				"h": 688
 			},
 			"scale": 1,
 			"frames": [
@@ -12964,6 +12964,111 @@
 						"y": 632,
 						"w": 32,
 						"h": 32
+					}
+				},
+				{
+					"filename": "rowap_berry",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 0,
+						"y": 664,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "kee_berry",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 24,
+						"y": 664,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "maranga_berry",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 48,
+						"y": 664,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "jaboca_berry",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 72,
+						"y": 664,
+						"w": 24,
+						"h": 24
+					}
+				},
+				{
+					"filename": "custap_berry",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 24,
+						"h": 24
+					},
+					"frame": {
+						"x": 96,
+						"y": 664,
+						"w": 24,
+						"h": 24
 					}
 				}
 			]
