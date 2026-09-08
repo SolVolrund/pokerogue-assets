@@ -1,0 +1,382 @@
+{
+  "schema": "pokemon-accessory-catalog-v1",
+  "sheet": {
+    "imageName": "accessories.png",
+    "width": 661,
+    "height": 264
+  },
+  "slots": [
+    {
+      "id": "head",
+      "label": "Head"
+    },
+    {
+      "id": "face",
+      "label": "Face"
+    },
+    {
+      "id": "leftEar",
+      "label": "L Ear"
+    },
+    {
+      "id": "rightEar",
+      "label": "R Ear"
+    },
+    {
+      "id": "body",
+      "label": "Body"
+    },
+    {
+      "id": "waist",
+      "label": "Waist"
+    },
+    {
+      "id": "leftHand",
+      "label": "L Hand"
+    },
+    {
+      "id": "rightHand",
+      "label": "R Hand"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "accessory_mtqavx99_la70h",
+      "name": "PinkRibbon",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "pivot": {
+        "x": 16,
+        "y": 16
+      }
+    },
+    {
+      "id": "accessory_mtqawa31_uv1bk",
+      "name": "SwirlGlasses",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 67,
+        "y": 67,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 16,
+        "y": 16
+      }
+    },
+    {
+      "id": "accessory_mtqaxdef_d57q2",
+      "name": "SunGlasses",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 1,
+        "y": 67,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 15,
+        "y": 16
+      }
+    },
+    {
+      "id": "accessory_mtqaxt7c_q6lvg",
+      "name": "Crown",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 67,
+        "y": 34,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 15,
+        "y": 25
+      }
+    },
+    {
+      "id": "accessory_mtqay7pc_2psai",
+      "name": "TopHat",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 100,
+        "y": 34,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 15,
+        "y": 21
+      }
+    },
+    {
+      "id": "accessory_mtqaynk9_8tbcf",
+      "name": "RedSash",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 1,
+        "y": 133,
+        "w": 63,
+        "h": 31
+      },
+      "pivot": {
+        "x": 27,
+        "y": 17
+      }
+    },
+    {
+      "id": "accessory_mtqaz1iy_1nssv",
+      "name": "Sword",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 1,
+        "y": 199,
+        "w": 31,
+        "h": 63
+      },
+      "pivot": {
+        "x": 15,
+        "y": 42
+      }
+    },
+    {
+      "id": "accessory_mtqazvir_u52jy",
+      "name": "LeafSkirt",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 261,
+        "y": 166,
+        "w": 63,
+        "h": 31
+      },
+      "pivot": {
+        "x": 32,
+        "y": 10
+      }
+    },
+    {
+      "id": "accessory_mtqb0zt2_4bel6",
+      "name": "Shield",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 463,
+        "y": 67,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 15,
+        "y": 14
+      }
+    },
+    {
+      "id": "accessory_mtqb1nbi_5etj8",
+      "name": "StrawHat",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 397,
+        "y": 34,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 15,
+        "y": 16
+      }
+    },
+    {
+      "id": "accessory_mtqb29rb_5pt5g",
+      "name": "Cane",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 397,
+        "y": 199,
+        "w": 31,
+        "h": 63
+      },
+      "pivot": {
+        "x": 19,
+        "y": 23
+      }
+    },
+    {
+      "id": "accessory_mtqb2z55_s5b6d",
+      "name": "BowtieBlack",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 199,
+        "y": 1,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 15,
+        "y": 16
+      }
+    },
+    {
+      "id": "accessory_mtqb3i8i_op9rj",
+      "name": "Monacle",
+      "style": "",
+      "slots": [
+        "head",
+        "face",
+        "leftEar",
+        "rightEar",
+        "body",
+        "waist",
+        "leftHand",
+        "rightHand"
+      ],
+      "sourceImageName": "accessories.png",
+      "rect": {
+        "x": 100,
+        "y": 67,
+        "w": 31,
+        "h": 31
+      },
+      "pivot": {
+        "x": 11,
+        "y": 16
+      }
+    }
+  ]
+}

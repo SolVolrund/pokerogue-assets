@@ -1,0 +1,117 @@
+{
+  "schema": "pokemon-accessory-anchors-v1",
+  "pokemon": {
+    "key": "25",
+    "source": "base",
+    "imageName": "25.png",
+    "frameCount": 116,
+    "frameSize": {
+      "w": 50,
+      "h": 46
+    }
+  },
+  "slots": [
+    {
+      "id": "head",
+      "label": "Head"
+    },
+    {
+      "id": "face",
+      "label": "Face"
+    },
+    {
+      "id": "leftEar",
+      "label": "L Ear"
+    },
+    {
+      "id": "rightEar",
+      "label": "R Ear"
+    },
+    {
+      "id": "body",
+      "label": "Body"
+    },
+    {
+      "id": "waist",
+      "label": "Waist"
+    },
+    {
+      "id": "leftHand",
+      "label": "L Hand"
+    },
+    {
+      "id": "rightHand",
+      "label": "R Hand"
+    }
+  ],
+  "anchorsBySide": {
+    "front": {
+      "head": {
+        "available": true,
+        "frames": {}
+      },
+      "face": {
+        "available": true,
+        "frames": {}
+      },
+      "leftEar": {
+        "available": true,
+        "frames": {}
+      },
+      "rightEar": {
+        "available": true,
+        "frames": {}
+      },
+      "body": {
+        "available": true,
+        "frames": {}
+      },
+      "waist": {
+        "available": true,
+        "frames": {}
+      },
+      "leftHand": {
+        "available": true,
+        "frames": {}
+      },
+      "rightHand": {
+        "available": true,
+        "frames": {}
+      }
+    },
+    "back": {
+      "head": {
+        "available": true,
+        "frames": {}
+      },
+      "face": {
+        "available": true,
+        "frames": {}
+      },
+      "leftEar": {
+        "available": true,
+        "frames": {}
+      },
+      "rightEar": {
+        "available": true,
+        "frames": {}
+      },
+      "body": {
+        "available": true,
+        "frames": {}
+      },
+      "waist": {
+        "available": true,
+        "frames": {}
+      },
+      "leftHand": {
+        "available": true,
+        "frames": {}
+      },
+      "rightHand": {
+        "available": true,
+        "frames": {}
+      }
+    }
+  }
+}
