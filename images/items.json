@@ -13070,6 +13070,48 @@
 						"w": 24,
 						"h": 24
 					}
+				},
+				{
+					"filename": "cb",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 20,
+						"h": 20
+					},
+					"frame": {
+						"x": 120,
+						"y": 664,
+						"w": 20,
+						"h": 20
+					}
+				},
+				{
+					"filename": "berserk_gene",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 2,
+						"w": 10,
+						"h": 28
+					},
+					"frame": {
+						"x": 140,
+						"y": 664,
+						"w": 10,
+						"h": 28
+					}
 				}
 			]
 		}

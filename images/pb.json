@@ -4,8 +4,8 @@
 			"image": "pb.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 12,
-				"h": 287
+				"w": 32,
+				"h": 328
 			},
 			"scale": 1,
 			"frames": [
@@ -446,6 +446,69 @@
 					"frame": {
 						"x": 0,
 						"y": 275,
+						"w": 12,
+						"h": 12
+					}
+				},
+				{
+					"filename": "cb_open",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 287,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "cb_opening",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 12,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 12,
+						"h": 13
+					},
+					"frame": {
+						"x": 0,
+						"y": 303,
+						"w": 12,
+						"h": 13
+					}
+				},
+				{
+					"filename": "cb",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 12,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 12,
+						"h": 12
+					},
+					"frame": {
+						"x": 0,
+						"y": 316,
 						"w": 12,
 						"h": 12
 					}
