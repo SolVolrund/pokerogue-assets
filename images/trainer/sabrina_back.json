@@ -1,0 +1,17 @@
+{
+  "textures": [{
+    "image": "sabrina_back.png",
+    "format": "RGBA8888",
+    "size": { "w": 812, "h": 164 },
+    "scale": 1,
+    "frames": [{
+      "filename": "1",
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": { "w": 160, "h": 160 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+      "frame": { "x": 2, "y": 2, "w": 160, "h": 160 }
+    }]
+  }],
+  "meta": { "app": "Sabrina back sprite atlas; borders excluded, rendered at half scale" }
+}

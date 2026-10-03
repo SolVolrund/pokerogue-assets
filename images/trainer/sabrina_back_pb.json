@@ -1,0 +1,41 @@
+{
+  "textures": [{
+    "image": "sabrina_back_pb.png",
+    "format": "RGBA8888",
+    "size": { "w": 812, "h": 164 },
+    "scale": 1,
+    "frames": [
+      {
+        "filename": "1", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 160, "h": 160 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+        "frame": { "x": 2, "y": 2, "w": 160, "h": 160 }
+      },
+      {
+        "filename": "2", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 160, "h": 160 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+        "frame": { "x": 164, "y": 2, "w": 160, "h": 160 }
+      },
+      {
+        "filename": "3", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 160, "h": 160 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+        "frame": { "x": 326, "y": 2, "w": 160, "h": 160 }
+      },
+      {
+        "filename": "4", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 160, "h": 160 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+        "frame": { "x": 488, "y": 2, "w": 160, "h": 160 }
+      },
+      {
+        "filename": "5", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 160, "h": 160 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 160, "h": 160 },
+        "frame": { "x": 650, "y": 2, "w": 160, "h": 160 }
+      }
+    ]
+  }],
+  "meta": { "app": "Sabrina throw atlas; five poses, borders excluded, rendered at half scale" }
+}

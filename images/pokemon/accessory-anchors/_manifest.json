@@ -1,19 +1,29 @@
 {
   "files": [
     "1.json",
+    "2.json",
+    "3.json",
+    "25.json",
     "133.json",
     "134.json",
     "135.json",
     "136.json",
-    "2.json",
-    "25.json",
-    "3.json",
+    "196.json",
+    "197.json",
     "304.json",
     "305.json",
     "306.json",
     "447.json",
     "448.json",
+    "470.json",
+    "471.json",
+    "580.json",
+    "581.json",
     "650-exp.json",
-    "651.json"
+    "651.json",
+    "652-exp.json",
+    "700.json",
+    "778-busted.json",
+    "778-disguised.json"
   ]
 }
