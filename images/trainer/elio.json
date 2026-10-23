@@ -1,0 +1,15 @@
+{
+  "textures": [{
+    "image": "elio.png",
+    "format": "RGBA8888",
+    "size": { "w": 37, "h": 66 },
+    "scale": 1,
+    "frames": [{
+      "filename": "0001.png", "rotated": false, "trimmed": true,
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 21, "y": 14, "w": 37, "h": 66 },
+      "frame": { "x": 0, "y": 0, "w": 37, "h": 66 }
+    }]
+  }],
+  "meta": { "app": "Elio front sprite by Kyledove; supplied WebP converted losslessly to PNG" }
+}

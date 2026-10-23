@@ -1,0 +1,15 @@
+{
+  "textures": [{
+    "image": "calem.png",
+    "format": "RGBA8888",
+    "size": { "w": 31, "h": 70 },
+    "scale": 1,
+    "frames": [{
+      "filename": "0001.png", "rotated": false, "trimmed": true,
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 24, "y": 10, "w": 31, "h": 70 },
+      "frame": { "x": 0, "y": 0, "w": 31, "h": 70 }
+    }]
+  }],
+  "meta": { "app": "Calem front sprite by Kyledove; supplied WebP converted losslessly to PNG" }
+}

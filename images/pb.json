@@ -1,10 +1,10 @@
 {
 	"textures": [
 		{
-			"image": "pb.png",
+			"image": "images/pb.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 32,
+				"w": 12,
 				"h": 328
 			},
 			"scale": 1,
@@ -514,6 +514,48 @@
 					}
 				}
 			]
+		},
+		{
+			"image": "images/pokeball/sb.png",
+			"format": "RGBA8888",
+			"size": { "w": 12, "h": 16 },
+			"scale": 1,
+			"frames": [{
+				"filename": "sb",
+				"rotated": false,
+				"trimmed": false,
+				"sourceSize": { "w": 12, "h": 16 },
+				"spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 16 },
+				"frame": { "x": 0, "y": 0, "w": 12, "h": 16 }
+			}]
+		},
+		{
+			"image": "images/pokeball/sb_opening.png",
+			"format": "RGBA8888",
+			"size": { "w": 12, "h": 16 },
+			"scale": 1,
+			"frames": [{
+				"filename": "sb_opening",
+				"rotated": false,
+				"trimmed": false,
+				"sourceSize": { "w": 12, "h": 16 },
+				"spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 16 },
+				"frame": { "x": 0, "y": 0, "w": 12, "h": 16 }
+			}]
+		},
+		{
+			"image": "images/pokeball/sb_open.png",
+			"format": "RGBA8888",
+			"size": { "w": 12, "h": 16 },
+			"scale": 1,
+			"frames": [{
+				"filename": "sb_open",
+				"rotated": false,
+				"trimmed": false,
+				"sourceSize": { "w": 12, "h": 16 },
+				"spriteSourceSize": { "x": 0, "y": 0, "w": 12, "h": 16 },
+				"frame": { "x": 0, "y": 0, "w": 12, "h": 16 }
+			}]
 		}
 	],
 	"meta": {

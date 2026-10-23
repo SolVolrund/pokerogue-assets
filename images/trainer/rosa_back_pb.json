@@ -1,0 +1,41 @@
+{
+  "textures": [{
+    "image": "rosa_back_pb.png",
+    "format": "RGBA8888",
+    "size": { "w": 406, "h": 82 },
+    "scale": 1,
+    "frames": [
+      {
+        "filename": "1", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 80, "h": 80 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 },
+        "frame": { "x": 1, "y": 1, "w": 80, "h": 80 }
+      },
+      {
+        "filename": "2", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 80, "h": 80 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 },
+        "frame": { "x": 82, "y": 1, "w": 80, "h": 80 }
+      },
+      {
+        "filename": "3", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 80, "h": 80 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 },
+        "frame": { "x": 163, "y": 1, "w": 80, "h": 80 }
+      },
+      {
+        "filename": "4", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 80, "h": 80 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 },
+        "frame": { "x": 244, "y": 1, "w": 80, "h": 80 }
+      },
+      {
+        "filename": "5", "rotated": false, "trimmed": false,
+        "sourceSize": { "w": 80, "h": 80 },
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 },
+        "frame": { "x": 325, "y": 1, "w": 80, "h": 80 }
+      }
+    ]
+  }],
+  "meta": { "app": "Rosa back sprite credited to Ken Sugimori; five 80x80 poses, excluding the one-pixel sheet borders" }
+}
