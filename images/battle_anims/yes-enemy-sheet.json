@@ -1,0 +1,4244 @@
+{
+  "schema": "yes-move-lab-v1",
+  "direction": "enemy",
+  "backgrounds": true,
+  "backgroundsBehind": true,
+  "anchors": {
+    "playerX": 106,
+    "playerY": 148,
+    "enemyX": 234,
+    "enemyY": 84
+  },
+  "includeZ": false,
+  "layers": [
+    {
+      "key": "hyperspace-fury",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pika-papow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "luster-purge",
+      "opacity": 1,
+      "visible": false
+    },
+    {
+      "key": "judgment",
+      "opacity": 1,
+      "visible": false
+    },
+    {
+      "key": "searing-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spectral-thief",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "prismatic-laser",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "celebrate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aeroblast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thousand-arrows",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "blast-burn",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "burn-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-shock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thousand-waves",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hyperspace-hole",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "steam-eruption",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aromatic-mist",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spin-out",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "blood-moon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hurricane",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ion-deluge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shell-trap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "techno-blast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "torch-song",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tri-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "explosion",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "misty-explosion",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "glitzy-glow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psycho-boost",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "seismic-toss",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "glaciate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-burn",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magnetic-flux",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "multi-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "natures-madness",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "play-rough",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spacial-rend",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magnitude",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "origin-pulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "petal-blizzard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "surging-strikes",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "whirlwind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gear-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "moonblast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "blue-flare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "collision-course",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "core-enforcer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "draco-meteor",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "electro-drift",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fire-blast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gunk-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "horn-drill",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "inferno",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "instruct",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "meteor-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "revenge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "roar-of-time",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aura-wheel",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-trip",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spotlight",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mind-blown",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "jungle-healing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "photon-geyser",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "brave-bird",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "brutal-swing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "freeze-dry",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "seed-flare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "alluring-voice",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-pulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dynamax-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "earthquake",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "eternabeam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "final-gambit",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "freezing-glare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grass-whistle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hyper-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leaf-tornado",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "liquidation",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "nihil-light",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pyro-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "self-destruct",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "strength-sap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fissure",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gravity",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "eruption",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "geomancy",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spirit-shackle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "behemoth-bash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "confusion",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fusion-flare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lands-wrath",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "plasma-fists",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psystrike",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunder",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aurora-veil",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "baddy-bad",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "behemoth-blade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-ascent",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "earth-power",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fiery-wrath",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "forests-curse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "frenzy-plant",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "giga-drain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heal-pulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "jet-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "light-of-ruin",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "purify",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rage-fist",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sparkly-swirl",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "synthesis",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tailwind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "darkest-lariat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wicked-torque",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fickle-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flash-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sketch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "teatime",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "cotton-spore",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "diamond-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "energy-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flower-trick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "chloroblast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hydro-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "metal-burst",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "muddy-water",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "nightmare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sludge-wave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "smart-strike",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "splishy-splash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "surf",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aromatherapy",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dark-pulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "electroweb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fake-tears",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "feather-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gastro-acid",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hypnosis",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "last-resort",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "meteor-mash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "perish-song",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pursuit",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "eerie-spell",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "laser-focus",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pounce",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rollout",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "steel-roller",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tail-glow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "v-create",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aqua-step",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fairy-lock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grassy-terrain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hyper-voice",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psychic-terrain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sunsteel-strike",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aura-sphere",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "coil",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "doom-desire",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "me-first",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "night-daze",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poltergeist",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "anchor-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "expanding-force",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "floral-healing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-tomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shadow-bone",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "steel-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "zing-zap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "zippy-zap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aqua-ring",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "charge-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "cross-poison",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dazzling-gleam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "electro-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "electro-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "extrasensory",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fire-spin",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "foresight",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "freeze-shock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leech-seed",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lock-on",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magic-room",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "petal-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pollen-puff",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sacred-fire",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sappy-seed",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shadow-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stealth-rock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stuff-cheeks",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "swagger",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "trick-room",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "venoshock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "water-spout",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "weather-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wonder-room",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "crafty-shield",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "beak-blast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bolt-strike",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "destiny-bond",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dream-eater",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "freezy-frost",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "guard-swap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heart-swap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hold-hands",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-swap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "relic-song",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "revelation-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sheer-cold",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "skill-swap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "speed-swap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sweet-scent",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "attract",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "close-combat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "guillotine",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "throat-chop",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "corrosive-gas",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "discharge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-energy",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "drill-run",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "entrainment",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heal-block",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hyper-drill",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "milk-drink",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "role-play",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shell-smash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "skitter-smack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sky-drop",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "worry-seed",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "astral-barrage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "avalanche",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "baton-pass",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "brick-break",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "combat-torque",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "cosmic-power",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "extreme-speed",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fairy-wind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fleur-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "haze",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "horn-leech",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leaf-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "meteor-assault",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mist",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "moongeist-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "oblivion-wing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ominous-wind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pay-day",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "reflect-type",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "silver-wind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "solar-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spider-web",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spiky-shield",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sticky-web",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stomping-tantrum",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stone-edge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "topsy-turvy",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "x-scissor",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ancient-power",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bitter-blade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bug-buzz",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "drum-beating",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flame-charge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lucky-chant",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mega-drain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "natural-gift",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "razor-wind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-climb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sizzly-slide",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stored-power",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "taunt",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tickle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tidy-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dark-void",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "glare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "minimize",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mountain-gale",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-slide",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shadow-sneak",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sparkling-aria",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sweet-kiss",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "trop-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "acid-armor",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "baneful-bunker",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "belch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "burning-jealousy",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fell-stinger",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "follow-me",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "future-sight",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heal-bell",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heal-order",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lash-out",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mystical-fire",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "overheat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "raging-bull",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shock-wave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sky-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stockpile",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunderous-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "water-pledge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aurora-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "blizzard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bouncy-bubble",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bubble-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "chatter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "high-horsepower",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "kinesis",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "kowtow-cleave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spikes",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "toxic-spikes",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "acrobatics",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "assist",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bitter-malice",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bubble",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "chilly-reception",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "clear-smog",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "coaching",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "confuse-ray",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "copycat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "crush-claw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "curse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "decorate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "disable",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "doodle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-edge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "facade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "feint-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fiery-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flip-turn",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fusion-bolt",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "giga-impact",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grass-pledge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heat-wave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-spinner",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "iron-defense",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leafage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lumina-crash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magical-torque",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "miracle-eye",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mist-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "misty-terrain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mortal-spin",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mud-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "nasty-plot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poison-powder",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poison-tail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "precipice-blades",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rage-powder",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "raging-fury",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "razor-leaf",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rototiller",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "round",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "secret-sword",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shift-gear",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sleep-powder",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sludge-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "smokescreen",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "soft-boiled",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spirit-break",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spite",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spore",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stun-spore",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "submission",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "synchronoise",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tearful-look",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "teeter-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "telekinesis",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thief",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thrash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "twister",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "victory-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "water-sport",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wave-crash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "will-o-wisp",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "autotomize",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "barb-barrage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "brine",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dire-claw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flame-burst",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "focus-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "guard-split",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gyro-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magical-leaf",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "noxious-torque",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "powder",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "attack-order",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "blazing-torque",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bleakwind-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bulk-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flare-blitz",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "floaty-fall",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flower-shield",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flying-press",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hex",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hydro-pump",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-ball",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "metal-sound",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "outrage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sandsear-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "screech",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "solar-blade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "springtide-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "supercell-slam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "supersonic",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "twin-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "u-turn",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "volt-tackle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wildbolt-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "acid-spray",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bolt-beak",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "clanging-scales",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "clangorous-soul",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "covet",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heat-crash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heavy-slam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ingrain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leaf-blade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psychic-noise",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sky-uppercut",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spicy-extract",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tar-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "temper-flare",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunder-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunderbolt",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunderclap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "trailblaze",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "uproar",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "venom-drench",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "apple-acid",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fishious-rend",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gust",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "parting-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poison-sting",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rain-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "retaliate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "storm-throw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "superpower",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "syrup-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "toxic-thread",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "volt-switch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wild-charge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "after-you",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "air-slash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "baby-doll-eyes",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "calm-mind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "captivate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "chilling-water",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "detect",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "electric-terrain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "encore",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flame-wheel",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fly",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "frost-breath",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "frustration",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "glaive-rush",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "infernal-parade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lava-plume",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mean-look",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "memento",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "moonlight",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mud-sport",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mystical-power",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "night-shade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psybeam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psych-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psychic",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psyshock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-throw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "roost",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ruination",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sacred-sword",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "soak",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "splash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sucker-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tail-whip",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunder-cage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "triple-arrows",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "triple-dive",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "waterfall",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wring-out",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "zap-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "accelerock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "armor-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "crush-grip",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dig",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dive",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-team",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flatter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grudge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hold-back",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-hammer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "jump-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magma-storm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "make-it-rain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mirror-coat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "noble-roar",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "payback",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "present",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-wrecker",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "salt-cure",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sand-tomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sandstorm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "steel-wing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "struggle-bug",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "swift",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "swords-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wide-guard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-rage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "drill-peck",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "focus-blast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gigaton-hammer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "healing-wish",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "matcha-gotcha",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "octazooka",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poison-gas",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "quick-guard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "revival-blessing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "scary-face",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spark",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stone-axe",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "swallow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tera-starstorm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "twineedle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "vital-throw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "water-pulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "work-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "confide",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "constrict",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "court-change",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fire-pledge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "gear-grind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "glacial-lance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grass-knot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "head-charge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "headlong-rush",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "incinerate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leech-life",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magnet-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "meditate",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "obstruct",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "octolock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "phantom-force",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poison-fang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rapid-spin",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "reversal",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-polish",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shore-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "silk-trap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sludge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "substitute",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "vacuum-wave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "agility",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "barrier",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bone-club",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bug-bite",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "burning-bulwark",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "buzzy-buzz",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "camouflage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-hammer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "eerie-impulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "iron-tail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "jaw-lock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "kings-shield",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "light-screen",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magic-coat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mind-reader",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mud-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "parabolic-charge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "play-nice",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-shift",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "protect",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "quiver-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "razor-shell",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "reflect",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "roar",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "scale-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "signal-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "trick-or-treat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "withdraw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "absorb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "acid",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "boomburst",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bulldoze",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "charm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "comeuppance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "conversion-2",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "cotton-guard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "cross-chop",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "defog",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dizzy-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-iron-bash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-tail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "echoed-voice",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fire-lash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flamethrower",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "flash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "growth",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hydro-steam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-shard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "knock-off",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "life-dew",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lovely-kiss",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lunar-dance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magic-powder",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mat-block",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mimic",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mirror-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "morning-sun",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "night-slash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "no-retreat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "odor-sleuth",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "overdrive",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "powder-snow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-gem",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psyblade",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psycho-cut",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psywave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "punishment",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "recover",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "recycle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rising-voltage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "scald",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "snap-trap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spit-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "string-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sunny-day",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tachyon-cutter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "take-down",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "take-heart",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "teleport",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunder-shock",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "trick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wicked-blow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wish",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bone-rush",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "circle-throw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fillet-away",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "megahorn",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pain-split",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "poison-jab",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "slack-off",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aqua-jet",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "disarming-voice",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-claw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-darts",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "drain-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "draining-kiss",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "egg-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "endeavor",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "feint",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "horn-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "icicle-spear",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "icy-wind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lunge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "magnet-rise",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mud-slap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "nuzzle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psycho-shift",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "quash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-smash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "safeguard",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "seed-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sharpen",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shed-tail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shelter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "smog",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "steamroller",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "trump-card",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aqua-tail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bide",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bind",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "body-press",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "conversion",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dynamic-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "false-swipe",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fire-fang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hidden-power",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "high-jump-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hone-claws",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "infestation",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "metronome",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mirror-move",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shadow-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "snipe-shot",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "strange-steam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "super-fang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "torment",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wake-up-slap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "water-gun",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "whirlpool",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wrap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bonemerang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ceaseless-edge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-rush",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fake-out",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "growl",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "headbutt",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hyper-fang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "icicle-crash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "imprison",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "iron-head",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lunar-blessing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "malignant-chain",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "needle-arm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "order-up",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pin-missile",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-up-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psyshield-bash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "return",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "scorching-sands",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shell-side-arm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "struggle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "terrain-pulse",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunder-wave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "toxic",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "veevee-volley",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "yawn",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "zen-headbutt",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "acupressure",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "air-cutter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ally-switch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "amnesia",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bestow",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "block",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "body-slam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "breaking-swipe",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bullet-seed",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "charge",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "chip-away",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "counter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "crunch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "defend-order",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "defense-curl",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dragon-breath",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ember",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fire-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "first-impression",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "focus-energy",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "force-palm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "foul-play",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grav-apple",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "happy-hour",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "heart-stamp",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "karate-chop",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "last-respects",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "lick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mega-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "metal-claw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mighty-cleave",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pluck",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-whip",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "psychic-fangs",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "refresh",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shadow-force",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "simple-beam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "skull-bash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "slash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "snore",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "spike-cannon",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "stomp",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "strength",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "switcheroo",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "thunder-fang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "transform",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "upper-hand",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "vise-grip",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aerial-ace",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "axe-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bite",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bounce",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dual-wingbeat",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "esper-wing",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fury-swipes",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "head-smash",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "low-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-split",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "quick-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "slam",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "vine-whip",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wing-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "blaze-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hail",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ice-fang",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "snarl",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "snowscape",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "triple-axel",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "astonish",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "crabhammer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "endure",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "grassy-glide",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hammer-arm",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "hard-press",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "ivy-cudgel",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "power-trick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rolling-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "shadow-claw",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sleep-talk",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "smack-down",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "smelling-salts",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "water-shuriken",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "wood-hammer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "clamp",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "harden",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mach-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sand-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "sonic-boom",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "aqua-cutter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "arm-thrust",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "assurance",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "belly-drum",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "bullet-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "comet-punch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-hit",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "dual-chop",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "electrify",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "embargo",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fling",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "helping-hand",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "howl",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "low-sweep",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "mega-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "peck",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "rock-blast",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "snatch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "false-surrender",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "pound",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "barrage",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "branch-poke",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "cut",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fury-attack",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "fury-cutter",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "population-bomb",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "scratch",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tail-slap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-slap",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "leer",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "tackle",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "triple-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "double-kick",
+      "opacity": 1,
+      "visible": true
+    },
+    {
+      "key": "beat-up",
+      "opacity": 1,
+      "visible": true
+    }
+  ],
+  "frameWidth": 320,
+  "frameHeight": 180,
+  "fps": 20,
+  "frameCount": 99,
+  "pages": [
+    {
+      "filename": "yes-enemy-1.png",
+      "startFrame": 0,
+      "frameCount": 99,
+      "columns": 8,
+      "width": 2560,
+      "height": 2340
+    }
+  ]
+}
