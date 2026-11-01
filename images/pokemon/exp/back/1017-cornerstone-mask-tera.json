@@ -1,0 +1,165 @@
+{
+  "textures": [
+    {
+      "image": "1017-cornerstone-mask-tera.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 285,
+        "h": 285
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "0001.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          }
+        },
+        {
+          "filename": "0002.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 95,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          }
+        },
+        {
+          "filename": "0003.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 190,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          }
+        },
+        {
+          "filename": "0004.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 0,
+            "y": 95,
+            "w": 95,
+            "h": 95
+          }
+        },
+        {
+          "filename": "0005.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 95,
+            "y": 95,
+            "w": 95,
+            "h": 95
+          }
+        },
+        {
+          "filename": "0006.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 190,
+            "y": 95,
+            "w": 95,
+            "h": 95
+          }
+        },
+        {
+          "filename": "0007.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 95,
+            "h": 95
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 95,
+            "h": 95
+          },
+          "frame": {
+            "x": 0,
+            "y": 190,
+            "w": 95,
+            "h": 95
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "credit": "EBDX"
+  }
+}
