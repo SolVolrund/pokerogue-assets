@@ -1,0 +1,17 @@
+{
+  "textures": [{
+    "image": "kurt_kyledove.png",
+    "format": "RGBA8888",
+    "size": { "w": 37, "h": 71 },
+    "scale": 1,
+    "frames": [{
+      "filename": "0001.png",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": { "w": 80, "h": 80 },
+      "spriteSourceSize": { "x": 21, "y": 9, "w": 37, "h": 71 },
+      "frame": { "x": 0, "y": 0, "w": 37, "h": 71 }
+    }]
+  }],
+  "meta": { "artist": "Kyledove" }
+}
