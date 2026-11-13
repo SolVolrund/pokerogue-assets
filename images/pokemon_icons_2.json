@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 255,
-				"h": 1504
+				"h": 1536
 			},
 			"scale": 1,
 			"frames": [
@@ -5824,6 +5824,132 @@
 						"y": 1345,
 						"w": 17,
 						"h": 16
+					}
+				},
+				{
+					"filename": "154-mega",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 198,
+						"y": 457,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "154s-mega",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 203,
+						"y": 1489,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "160-mega",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1505,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "160s-mega",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 43,
+						"y": 1505,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "227-mega",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 85,
+						"y": 1505,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "227s-mega",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 127,
+						"y": 1505,
+						"w": 40,
+						"h": 30
 					}
 				}
 			]

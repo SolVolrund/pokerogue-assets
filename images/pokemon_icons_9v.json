@@ -3914,6 +3914,258 @@
 						"w": 40,
 						"h": 30
 					}
+				},
+				{
+					"filename": "952-mega_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 241,
+						"y": 421,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "952-mega_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 283,
+						"y": 421,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "970-mega_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 325,
+						"y": 421,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "970-mega_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 367,
+						"y": 421,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "978-mega-curly_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 409,
+						"y": 421,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "978-mega-curly_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 424,
+						"y": 898,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "978-mega-droopy_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 36,
+						"y": 899,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "978-mega-droopy_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 78,
+						"y": 899,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "978-mega-stretchy_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 266,
+						"y": 899,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "978-mega-stretchy_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 308,
+						"y": 899,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "998-mega_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 350,
+						"y": 900,
+						"w": 40,
+						"h": 30
+					}
+				},
+				{
+					"filename": "998-mega_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 40,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 40,
+						"h": 30
+					},
+					"frame": {
+						"x": 120,
+						"y": 901,
+						"w": 40,
+						"h": 30
+					}
 				}
 			]
 		}
